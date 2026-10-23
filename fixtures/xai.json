@@ -1,0 +1,1 @@
+{"idea": "AI Code Reviewer GitHub Action", "description": "Create a reusable GitHub Action that audits pull requests for security flaws.", "income": "💰 $100–$500 / monthly sub", "first_step": "Write a basic GitHub workflow file that calls an LLM API on pull requests."}
